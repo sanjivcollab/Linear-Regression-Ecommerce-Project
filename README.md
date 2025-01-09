@@ -1,2 +1,2 @@
-# Linear-Regression-Ecommerce-Project
+# Linear-Regression Projects
  Ecommerce-Project
